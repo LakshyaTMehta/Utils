@@ -1,5 +1,5 @@
-#Description
-##Sets the pulseaudio daemon to stream system audio to all bluetooth devices
+# Description
+## Sets the pulseaudio daemon to stream system audio to all bluetooth devices
 
-#Dependencies 
-##Bluez and Pulseaudio 
+# Dependencies 
+## Bluez and Pulseaudio 
